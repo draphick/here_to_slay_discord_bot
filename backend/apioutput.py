@@ -1,4 +1,4 @@
-#pylint: disable=missing-module-docstring line-too-long
+# pylint: disable=missing-module-docstring line-too-long
 apiOutput = {
     "parse": {
         "title": "Here To Slay Base Deck - Inventory List",
